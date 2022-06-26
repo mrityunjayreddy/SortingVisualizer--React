@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    max-width: 80rem;
+}
+
+.container-semi__1{
+    display: flex;
+}
+ .container-semi__2{
+    display: flex;
+ }
